@@ -1,0 +1,25 @@
+{
+  "tagClassMap": {
+    "tech": "tag-tech",
+    "case": "tag-case",
+    "deep": "tag-deep",
+    "oss": "tag-oss"
+  },
+  "tagNameMap": {
+    "tech": "技术进展",
+    "case": "实践案例",
+    "deep": "深度解析",
+    "oss": "开源社区"
+  },
+  "coverImageMap": {
+    "deep": "/blog-media/covers/deep_dive.webp",
+    "case": "/blog-media/covers/parctical_case.webp",
+    "tech": "/blog-media/covers/tech_progress.webp",
+    "oss": "/blog-media/covers/open_source.webp"
+  },
+  "categories": [
+    { "id": "all", "name": "最新文章", "icon": "📄", "desc": "探索 AI 辅助编程领域的前沿技术与最佳实践" },
+    { "id": "case", "name": "实践案例", "icon": "💡", "desc": "真实用户故事、落地场景与最佳实践分享" },
+    { "id": "deep", "name": "深度解析", "icon": "🔬", "desc": "AI 编程原理、技术深潜与前沿研究探讨" }
+  ]
+}
