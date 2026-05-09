@@ -1,0 +1,16 @@
+name: Trigger Frontend Rebuild
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger site-main rebuild
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          repository: zgsm-sangfor/site
+          event-type: blog-content-updated
