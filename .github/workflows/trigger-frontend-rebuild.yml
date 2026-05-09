@@ -12,5 +12,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.PAT_TOKEN }}
-          repository: zgsm-sangfor/site
+          repository: xiaojingming/site-main
           event-type: blog-content-updated
