@@ -8,6 +8,7 @@ author: 周凯
 authorInitial: Z
 cover: deep
 readTime: 6
+featured: true
 ---
 
 把模糊需求转成可执行对象、确保关键知识在运行时可达、编码机械性规则防止模式漂移……Harness Engineering 是一套为 AI Agent 设计约束、引导和验证机制的系统工程方法。
