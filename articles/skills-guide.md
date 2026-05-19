@@ -375,7 +375,7 @@ Skill 的触发方式很简单：
 
 ## 参考资料
 
-- <https://www.anthropic.com/research/skills>
-- <https://github.com/zgsm-ai/everything-ai-coding>
-- <https://www.skills.sh/>
-- <https://docs.costrict.ai/cli/config/skills>
+- [Anthropic Research: Skills](https://www.anthropic.com/research/skills)
+- [Everything AI Coding](https://github.com/zgsm-ai/everything-ai-coding)
+- [Skills.sh](https://www.skills.sh/)
+- [Skills | CoStrict](https://docs.costrict.ai/cli/config/skills)
